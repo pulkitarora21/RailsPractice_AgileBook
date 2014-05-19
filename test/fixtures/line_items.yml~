@@ -1,6 +1,8 @@
 one:
   product: ruby
+#START_HIGHLIGHT
   order: one
+#END_HIGHLIGHT
 
 two:
   product: ruby
